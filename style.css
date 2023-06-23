@@ -8,3 +8,12 @@ body{
     background-color:var(--COR-DE-FUNDO);
     color:var(--BRANCO-PRINCIPAL);
 }
+.principal{background-image: url(Background\ \(2\).png);
+background-size:contain;
+background-repeat: no-repeat;
+}
+.container{
+    height: 100vh;
+
+}
+ 
